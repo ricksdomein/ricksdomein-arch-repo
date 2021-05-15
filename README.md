@@ -1,5 +1,7 @@
 # ricksdomein-arch-repo
 
+A repository for my Arch Linux packages.
+
 ## How to "install" ricksdomein-arch-repo
 
 Adding a third-party repository (like this one) is easy.  Just add the following lines to the end of /etc/pacman.conf :
